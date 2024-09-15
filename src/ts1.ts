@@ -10,3 +10,5 @@ console.log("Hello Bao , Where are you from ?");
 
 //commit 2 from branch 2
 console.log("Oh, I am from VietNam, It a nice country");
+
+console.log("This is log for command merge from branch 2");
